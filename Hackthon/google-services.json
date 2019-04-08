@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "619882920835",
+    "firebase_url": "https://mobile-lab2.firebaseio.com",
+    "project_id": "mobile-lab2",
+    "storage_bucket": "mobile-lab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619882920835:android:51577deda45c3ba2",
+        "android_client_info": {
+          "package_name": "lab2.mobile.web.com.mobile_lab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619882920835-p9m80cm6h45jbsdiajv8d7ovk39k2554.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5A_QrSQ8g8SOcUOlAdgoaJ1z2c_2iYiU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

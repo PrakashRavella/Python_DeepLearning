@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="lab2.mobile.web.com.mobile_lab2.MainActivity">
+
+    <Button
+        android:id="@+id/firebase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="132dp"
+        android:text="Firebase Storage"
+        tools:layout_editor_absoluteX="134dp"
+        tools:layout_editor_absoluteY="124dp" />
+
+    <Button
+        android:id="@+id/fetchFirebase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/firebase"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="23dp"
+        android:text="Fetch Firebase Images" />
+
+    <Button
+        android:id="@+id/instaPics"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fetchFirebase"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp"
+        android:text="Fetch Instagram Profile Pic" />
+
+</RelativeLayout>
